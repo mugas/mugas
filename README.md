@@ -1,4 +1,4 @@
-[![Social banner for mugas](https://github.com/mugas/mugas/raw/master/assets/github_banner.png)](http://ricardomoreira.io/)
+[![Social banner for mugas](https://github.com/mugas/mugas/raw/master/assets/ricardo_moreira_banner.png)](http://ricardomoreira.io/)
 
 <h1 align="center">Hello, it's nice to meet you! 👋</h1>
 
