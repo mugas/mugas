@@ -1,3 +1,5 @@
+[![Social banner for mugas](https://github.com/mugas/mugas/raw/master/assets/github_banner.png)](http://ricardomoreira.io/)
+
 ### Hi there 👋
 
 <!--
